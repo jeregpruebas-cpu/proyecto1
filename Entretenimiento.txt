@@ -1,0 +1,5 @@
+Pregunta1;¿Qué película ganó el Oscar en 2023?;a) Avatar: The Way of Water; b) Top Gun: Maverick; c) The Banshees of Inisherin; d) Everything Everywhere All At Once;d 
+Pregunta2;¿Quién es la actriz más taquillera de la historia?;a) Jennifer Lawrence; b) Angelina Jolie; c) Sandra Bullock; d) Scarlett Johansson;d
+Pregunta3;¿Quién es el director de la película "Titanic"?;a) Steven Spielberg; b) Ridley Scott; c) Christopher Nolan; d) James Cameron;d 
+Pregunta4;¿Cuál es la serie de televisión más vista en Netflix hasta la fecha?;a) The Witcher; b) Wednesday; c) Bridgerton; d) Stranger Things;d
+Pregunta5;¿Qué actriz interpreta a Hermione Granger en la saga de Harry Potter?;a) Emma Stone; b) Emma Myers; c) Natalie Portman; d) Emma Watson;d

@@ -1,0 +1,5 @@
+Pregunta1;¿Cuál es el planeta más cercano al sol?;a) Júpiter; b) Urano; c) Venus; d) Mercurio;d
+Pregunta2;¿Qué científico propuso la teoría de la relatividad?;a) Isaac Newton; b) Nikola Tesla; c) Galileo Galilei; d) Albert Einstein;d 
+Pregunta3;¿Cuál es el elemento químico con el símbolo 'O'?;a) Oro; b) Ozono; c) Osmio; d) Oxígeno;d 
+Pregunta4;¿Cuál es la función principal del retículo endoplasmático rugoso en una célula eucariota?;a) Almacenar información genética; b) Producir energía celular; c) Regular el paso de sustancias a través de la membrana; d) La síntesis y transporte de proteínas;d
+Pregunta5;¿Cómo se llama el proceso mediante el cual las plantas producen su alimento usando la luz solar?;a) Respiración celular; b) Germinación; c) Transpiración; d) Fotosíntesis;d

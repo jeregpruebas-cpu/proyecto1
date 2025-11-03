@@ -1,0 +1,5 @@
+Pregunta1; ¿En qué año llegó Cristóbal Colón a América?;a)1491;b)1493;C)1494;d)1492;d 
+Pregunta2; ¿Quién fue el primer presidente de Estados Unidos?; a) Osama Bin Laden;b) John F. Kennedy;Mohammed Ali;c)George Washington;d 
+Pregunta3; ¿Cuál fue el imperio que construyó Machu Picchu?;Imperio Paloma;Imperio Perú;Imperio Maya;Imperio Inca;d 
+Pregunta4; ¿Qué evento marcó el fin de la Edad Media?;a) El descubrimiento de América por Cristóbal Colón en 1492;b) La caída del Imperio Romano de Occidente en el año 476;c) La firma de la Carta Magna en Inglaterra en 1215;d) La caída de Constantinopla en 1453;d
+Pregunta5; ¿Cuál fue el nombre del tratado que puso fin a la Guerra de los Treinta Años en 1648?;a) El Tratado de Versalles;b) El Tratado de Utrecht;c) El Tratado de París;d) La Paz de Westfalia;d
